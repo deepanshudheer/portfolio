@@ -220,7 +220,7 @@ body.dark-theme {
 }
 
 .profile_info {
-  grid-template-columns: repeat(3, max-content);
+  grid-template-columns: repeat(2, max-content); /* change to 3 later */
   justify-content: center;
   column-gap: 2.5rem;
 }
